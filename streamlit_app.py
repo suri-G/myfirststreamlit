@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("👋🏻 연수 실습 페이지(1023)")
+st.title("👋🏻 연수 실습 페이지")
+
 st.subheader("저의 페이지에 오신 것을 환영합니다!")
 st.info("반갑습니다. 반포고등학교 황수빈입니다. 수학을 좋아하고 코딩을 좋아합니다:)")
 
